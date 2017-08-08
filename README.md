@@ -1,7 +1,7 @@
-#Probability for Hackers - Pycon India 2017
+# Probability for Hackers - Pycon India 2017
 
 
-###Description (Proposal for conference talk)
+### Description (Proposal for conference talk)
 
 Did you just say probability? Mathematics at a tech conference? This mathematical term tends to elicit very strong reactions (either positive or negative, depending on who you ask) since it has a reputation for being difficult to crack/to keep track: it revolves around a seemingly endless jargon, abstract concepts, Greek letters as notations and more. Each concept holds its own subtle assumptions and everything is interlinked with each other. I know you have had enough of mathematics in the university but the way it is being taught is somewhat isolated from its practical application (less of a hands-on experience and more emphasis on theory) even though we encounter probability and statistics in our daily life. So, I am giving a go at ‘hacking the probability using code'.
 
