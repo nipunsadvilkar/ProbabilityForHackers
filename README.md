@@ -1,5 +1,6 @@
 # Probability for Hackers - Pycon India 2017
 
+![cover image](media/ProbabilityForHackers_main.png)
 
 ### Description (Proposal for conference talk)
 
