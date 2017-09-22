@@ -16,3 +16,40 @@ In this talk, I will discuss how you can use your coding skills to "hack probabi
 > “Not once, but twice AI was revolutionized by people who understood Probability Theory”<br>
  
 -Stanford University | CS 109: Probability for Computer Scientists
+
+#### Talk Structure
+
+1. Introduction<br>
+     a. About me<br>
+     b. Questions to know audience<br>
+     c. Motivation
+
+2. Talk's Target
+3. Diving into Probability (interactive way)<br>
+     a. Coin toss experiment using JQuery<br>
+     b. Comparing theoretical Vs experimental probability with D3js<br>
+     c. Simulating coin-toss experiment with Python<br>
+
+4. Ingredients to Modelling Uncertainty<br>
+     a. Sample space<br>
+     b. Axioms of Probability<br>
+
+5. Introduction to Random Variables
+
+6. Relation between Random Variables<br>
+     a. Joint Probability<br>
+     b. Marginal Probability<br>
+     c. Conditional Probability<br>
+     d. Dependence & Independence
+
+7. Demystifying Bayes' Theorem
+
+8. Application of Probability Theory<br>
+     a. Naive Bayes Algorithm for Spam filtering<br>
+
+9. Take Away message
+
+10. Thank you
+
+11. References
+
